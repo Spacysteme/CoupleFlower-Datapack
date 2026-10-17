@@ -1,0 +1,1 @@
+$title @s actionbar [{"text":"✿ ","color":"light_purple"},{"text":"$(filled)","color":"light_purple"},{"text":"$(empty)","color":"dark_gray"},{"text":"  "},{"score":{"name":"@s","objective":"flower_min"},"color":"white"},{"text":":","color":"white"},{"text":"$(pad)","color":"white"},{"score":{"name":"@s","objective":"flower_sec"},"color":"white"}]
