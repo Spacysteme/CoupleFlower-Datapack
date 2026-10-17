@@ -15,8 +15,7 @@ Add a touch of **love** (and a bit of nature) to your Minecraft server!
 ![[COUPLE] Flower - Particules](https://cdn.modrinth.com/data/cached_images/ea5e92d95a2bf64d9bc6da04c927115896193296.jpeg)
 
 - **⏱️ Smart Cooldown & Mechanics:** Features a built-in 5-minute cooldown timer displayed via an interactive action bar progress bar!
-Easily configurable directly inside 
-`load.mcfunction`.
+Easily configurable directly inside `load.mcfunction`.
 ![[COUPLE] Flower - COOLDOWN](https://cdn.modrinth.com/data/cached_images/a971c37e9456da6f9151ba735987857eaee93b46.png)
 <details>
 <summary> Inventory full?</summary>
