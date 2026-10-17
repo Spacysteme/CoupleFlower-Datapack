@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "pack_format": 61,
+    "supported_formats": [61, 121],
+    "min_format": 61,
+    "max_format": 121,
+    "description": {
+      "text": "§d§l[COUPLE] Flower§r §fDatapack\n§7└§lv1.0 §7• §7§lSpacy131"
+    }
+  }
+}
